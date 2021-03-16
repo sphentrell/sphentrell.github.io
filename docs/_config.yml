@@ -30,7 +30,7 @@ twitter_username: sphentrell
 github_username:  sphentrell
 
 # Build settings
-theme: Jekyll-theme-minimal
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
